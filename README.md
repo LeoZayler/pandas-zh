@@ -1,2 +1,2 @@
 # pandas-zh
-pandas中文文档
+pandas官方文档中文翻译版
